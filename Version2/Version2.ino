@@ -40,7 +40,7 @@ void setup() {
   //initialize d12 as input
   pinMode(SensorPin,INPUT);
 }
-
+//
 void loop() {
 
 // above red and bottom always on
